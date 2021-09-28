@@ -1,0 +1,21 @@
+////
+
+{ "Series": [
+	"E3":(12,0)V;
+	"Parallel": [
+		"Series": [
+			"E2":-12V;
+			"R2":3k
+		];
+		"Series": [
+			"R3":3k;
+			"Parallel": [
+				"J1":1m;
+				"Series": [
+					"E1":-24V;
+					"R1":3k
+				]
+			]
+		]
+	]
+]}
