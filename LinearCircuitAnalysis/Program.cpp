@@ -1,7 +1,7 @@
 #include "LCParser.h"
 #include "CircuitBuilder.h"
 #include <iostream>
-const double freq = 50;
+const double freq = 0;
 
 //int main() {
 //	auto builder = CircuitBuilder::getInstance();

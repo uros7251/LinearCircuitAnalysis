@@ -174,7 +174,7 @@
     <ClCompile Include="TwoTerminalLinearElement.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="RLC.txt" />
+    <Text Include="ResistorCircuit.txt" />
     <Text Include="TheveninExample.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

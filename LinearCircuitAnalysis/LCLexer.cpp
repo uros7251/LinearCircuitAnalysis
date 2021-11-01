@@ -55,7 +55,7 @@ std::string* LCLexer::readString(const char** buff)
 
 std::string* LCLexer::readNumber(const char** buff)
 {
-    static char delims[] = " \r\n\t;]}";
+    static char delims[] = "\r\n\t;]}";
     std::string* token = new std::string();
     do {
         token->append(1, *((*buff)++));

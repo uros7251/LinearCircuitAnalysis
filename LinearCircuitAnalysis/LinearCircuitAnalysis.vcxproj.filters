@@ -130,7 +130,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="RLC.txt">
+    <Text Include="ResistorCircuit.txt">
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="TheveninExample.txt">
